@@ -8,7 +8,7 @@ title: ''
 <img src="figs/myself.jpeg" alt="coffee" style="width:400px;" align = "top"/>
 </div>
 <div class="col-xs-12 col-sm-7">
-<span style="font-family:myFancyFont; font-size:3em;">These days I like to discuss IT</span>
+<span style="font-family:myFancyFont; font-size:3em;"></span>
 
 * [BB-8](https://www.facebook.com/groups/TNBB8Builders/)
 * Vanderbilt Biostatistics *PhD Student*
@@ -32,9 +32,9 @@ title: ''
 
 <center>
 <div class="scroll">
-<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/figs/DSC_0889.JPG" alt="car" style="height:225px;"/>
-<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/figs/DSC_0170edit.jpg" alt="GrandCanyon" style="height:225px;"/>
-<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/figs/DSC_2468.JPG" alt="Ireland" style="height: 225px;"/></div>
+<img src="figs/DSC_0889.JPG" alt="car" style="height:225px;"/>
+<img src="figs/DSC_0170edit.jpg" alt="GrandCanyon" style="height:225px;"/>
+<img src="figs/IMG_2405.JPG" alt="Ireland" style="height: 225px;"/></div>
 </center>
 
 <br/><br/>
