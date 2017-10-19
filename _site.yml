@@ -1,7 +1,7 @@
-name: "lucy-mcgowan"
+name: "Xiaoping Liao"
 output_dir: "."
 navbar:
-  title: "Lucy D'Agostino McGowan"
+  title: "Xiaoping Liao"
   right:
     - text: "home"
       href: index.html
@@ -10,7 +10,7 @@ navbar:
         - icon: fa-twitter
           href: https://twitter.com/LucyStats
         - icon: fa-github
-          href: https://github.com/LucyMcGowan
+          href: https://github.com/TIBseqlab
         - icon: fa-envelope
           href: mailto:ld.mcgowan@vanderbilt.edu
     - text: "blog"
